@@ -40,5 +40,5 @@ The repository is organized into the following files and folders:
   def add(a, b):
       return a + b
 
-- **merged_output_mazz** This PDF file serves as proof of the successful completion of each exercise.
+- **Merged_outputMazz[1].pdf** This PDF file serves as proof of the successful completion of each exercise.
 
