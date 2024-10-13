@@ -2,6 +2,10 @@
 
 # HOMEWORK 1                                                  Algorithmic Methods of Data Mining (ADM)
 
+<div align="center">
+    <img src="https://www.hackerrank.com/wp-content/uploads/2023/06/Black-Social-Share.png" alt="Esempio di immagine" width="600" />
+</div>
+
 ## HackerRank Python Exercises
 
 This repository contains a collection of Python exercises that I completed on HackerRank. Each exercise is designed to enhance Python programming skills and tackle various challenges.
